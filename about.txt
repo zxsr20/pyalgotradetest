@@ -1,0 +1,1 @@
+本项目是实现了回测策略的项目，目前实现了seg、diff、wave的策略，其中main是进行追求解查询的，mydataplot4nticket是实现seg策略的，mydataplot4wave是实现波动策略的。mydataplot4diff是实现两个seg进行比较的。dougu_trade是实现把豆鼓1509和1601和sp进行拼接的。

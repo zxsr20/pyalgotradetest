@@ -1,0 +1,8 @@
+2015-10-06 14:46:29,065 rangespan20150731 [INFO] Loading bars
+2015-10-06 14:46:37,005 rangespan20150731 [INFO] Waiting for workers
+2015-10-06 14:47:00,154 rangespan20150731 [INFO] Partial result 1000000 with parameters: ('IF1508', 660, 200, 100, 57, 45, 57, 100, 0.6, 60, 40, 45, 30, '20150731') from worker-6660
+2015-10-06 14:47:01,654 rangespan20150731 [INFO] Best final result 1000000 with parameters: ('IF1508', 660, 200, 100, 57, 45, 57, 100, 0.6, 60, 40, 45, 30, '20150731') from client worker-6660
+2015-10-06 14:47:02,338 rangespan120150731 [INFO] Loading bars
+2015-10-06 14:47:10,065 rangespan120150731 [INFO] Waiting for workers
+2015-10-06 14:47:33,795 rangespan120150731 [INFO] Partial result 1000000 with parameters: ('IF1508', 660, 200, 100, 57, 45, 57, 100, 0.6, 60, 40, 45, 30, '20150731') from worker-9824
+2015-10-06 14:47:35,311 rangespan120150731 [INFO] Best final result 1000000 with parameters: ('IF1508', 660, 200, 100, 57, 45, 57, 100, 0.6, 60, 40, 45, 30, '20150731') from client worker-9824
